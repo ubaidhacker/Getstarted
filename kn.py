@@ -123,15 +123,15 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mAuthor  \033[1;93m: \033[1;92mUbedHK
+\033[1;96mInstagram \033[1;93m: \033[1;92Notavail
+\033[1;96mFacebook  \033[1;93m: \033[1;92m buntty
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "Ubed"
+CorrectPassword = "Gillal"
 
 loop = 'true'
 while (loop == 'true'):
